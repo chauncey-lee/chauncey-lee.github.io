@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://chauncey-lee.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jan 2021 19:20:24 +0800</lastBuildDate><atom:link href="https://chauncey-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geek News</title>
+      <link>https://chauncey-lee.github.io/post/blog/</link>
+      <pubDate>Wed, 27 Jan 2021 19:20:24 +0800</pubDate>
+      
+      <guid>https://chauncey-lee.github.io/post/blog/</guid>
+      <description>Geek News 这是一个基于 MVVM 结构的练习项目，使用 几乎 100% Kotlin 语言开发，主要用来尝试一些新东西，使用了 Andorid Jetpack 中的 DataBinding, ViewModel, LiveData 和 Room. 另外练习了一下 viewGroup 的绘制（见项目中的SToolbar和NineGridImageLayout)
+TO-DO：
+ 迁移到 Gradle Kotlin，使用 Kotlin 代替 Groovy，使用 Gradle 5.0 之后出的 buildSrc 结构 适配 Android 10 迁移 Android X  相关项目总结blog：
+ 模仿Google News的TabLayout Gradle Kotlin 迁移指南  版本更新 v 1.0 迁移 AndroidX
+v 0.14 升级 Android 10，Support 28
+v 0.13 Gradle Kotlin 迁移
+下载地址 http://d.7short.com/hv8x
+界面截图  喜欢的话点个star吧
+ </description>
+    </item>
+    
+  </channel>
+</rss>
